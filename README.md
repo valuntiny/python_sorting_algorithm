@@ -12,6 +12,6 @@ output:
 ### first let's try some code chunk
 
 ```python
-print("1,2,3")
+print("a", "a", "b")
 ```
 
