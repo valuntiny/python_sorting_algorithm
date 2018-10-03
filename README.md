@@ -11,7 +11,7 @@ output:
 
 ### first let's try some code chunk
 
-```python
-print("a", "a", "b")
+```{r}
+1 + 2
 ```
 
