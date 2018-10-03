@@ -11,7 +11,5 @@ output:
 
 ### first let's try some code chunk
 
-```{r}
-1 + 2
-```
+alright, I give up, R markdown N.O. 1
 
