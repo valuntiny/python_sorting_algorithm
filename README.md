@@ -4,7 +4,7 @@ Author: Guojing Wu
 Date: 2018-10-2
 output: 
     github_document:
-        toc: True
+        toc: true
 ---
 
 ## An testing for python markdown
